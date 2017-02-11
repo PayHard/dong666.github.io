@@ -4,6 +4,29 @@
 
     
   <url>
+    <loc>https://dong666.github.io/1900/01/01/A-ArticleExample/</loc>
+    <lastmod>2017-02-11T05:45:01.000Z</lastmod>
+    <data>
+        <display>
+        <title>MarkDown示例</title>
+        <pubTime>1899-12-31T16:00:00.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="柒小文集" url="https://dong666.github.io/categories/%E6%9F%92%E5%B0%8F%E6%96%87%E9%9B%86/"/>
+          
+             
+              <breadCrumb title="散文" url="https://dong666.github.io/categories/%E6%9F%92%E5%B0%8F%E6%96%87%E9%9B%86/%E6%95%A3%E6%96%87/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://dong666.github.io/2017/02/04/travel_tuoluoshan/</loc>
     <lastmod>2017-02-11T04:30:26.000Z</lastmod>
     <data>
@@ -155,29 +178,6 @@
           
              
               <breadCrumb title="律詩絕句駢散文" url="https://dong666.github.io/categories/%E6%9F%92%E5%B0%8F%E8%A9%A9%E9%9B%86/%E5%BE%8B%E8%A9%A9%E7%B5%95%E5%8F%A5%E9%A7%A2%E6%95%A3%E6%96%87/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://dong666.github.io/1900/01/01/A-ArticleExample/</loc>
-    <lastmod>2017-02-11T03:54:17.506Z</lastmod>
-    <data>
-        <display>
-        <title>以文话文</title>
-        <pubTime>1899-12-31T16:00:00.000Z</pubTime>
-        
-        <tag>散文</tag>
-         
-         
-           
-             
-              <breadCrumb title="柒小文集" url="https://dong666.github.io/categories/%E6%9F%92%E5%B0%8F%E6%96%87%E9%9B%86/"/>
-          
-             
-              <breadCrumb title="散文" url="https://dong666.github.io/categories/%E6%9F%92%E5%B0%8F%E6%96%87%E9%9B%86/%E6%95%A3%E6%96%87/"/>
           
         </display>
     </data>
